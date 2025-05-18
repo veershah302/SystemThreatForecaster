@@ -35,8 +35,4 @@ The Malware Prediction Competition challenged participants to predict whether a 
 - **Top 8.7% Ranking**: Secured a competitive position among 1,519 participants, demonstrating effective feature engineering and model optimization.
 - **Practical Impact**: Developed a robust pipeline for processing large-scale telemetry data, applicable to real-world cybersecurity threat detection.
 
-## Link
-- [Project Repository](https://placeholder.com/threat-forecaster) (Placeholder, to be updated)
-
-
 
